@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Jekyll"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ COVID symptoms, Mental Health ]
 image: assets/images/11.jpg
 ---
 
