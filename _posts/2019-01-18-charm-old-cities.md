@@ -3,7 +3,7 @@ layout: post
 title:  "Test Post 2"
 author: jane
 categories: [ COVID symptoms, Mental Health ]
-image: assets/images/home.jpg
+image: assets/images/2.jpeg
 tags: [sticky]
 ---
 

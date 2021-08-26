@@ -3,7 +3,7 @@ layout: post
 title:  "Test Post 3"
 author: jane
 categories: [ COVID symptoms, Mental Health ]
-image: assets/images/11.jpg
+image: assets/images/3.jpeg
 ---
 
 No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
