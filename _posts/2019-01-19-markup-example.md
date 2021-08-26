@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "Test Post 4"
 author: jane
 categories: [ COVID symptoms, Mental Health ]
 image: assets/images/6.jpg

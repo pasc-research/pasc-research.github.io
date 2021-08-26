@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "Test Post 2"
 author: jane
 categories: [ COVID symptoms, Mental Health ]
 image: assets/images/home.jpg

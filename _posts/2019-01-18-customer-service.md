@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "Test Post 3"
 author: jane
 categories: [ COVID symptoms, Mental Health ]
 image: assets/images/11.jpg
