@@ -15,9 +15,9 @@ permalink: "/donate.html"
 				</div>
 			</div>
 		</div>
-		<div class="column">
+		<!-- <div class="column">
 			<img src="{{ site.baseurl }}/assets/images/1.png" alt="Sheep">
-		</div>
+		</div> -->
 	</div>
 </header>
 
@@ -71,7 +71,7 @@ permalink: "/donate.html"
 	</blockquote>
 </div> -->
 
-<div class="darker">
+<!-- <div class="darker">
 	<div class="container">
 		<h2 class="editable">Join us</h2>
 		<p class="editable" style="text-align: center;">Sign up to hear the latest news and progress </p>
@@ -80,7 +80,7 @@ permalink: "/donate.html"
 			<input type="submit" value="Sign up"/>
 		</form>
 	</div>
-</div>
+</div> -->
 
 <div class="container" id="donate">
 	<h2 class="editable">Make a donation</h2>
@@ -89,14 +89,14 @@ permalink: "/donate.html"
 	</div>
 </div>
 
-<div class="darker">
+<!-- <div class="darker">
 	<div class="container">
 		<h2 class="editable">Updates</h2>
 		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Update</a></p>
 		<div class="posts">
 			{% for post in site.posts %}
 				<div class="post">
-					<!-- <div class="image" style="background-image: url({{ post.featured_image}})"></div> -->
+					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
 					<div class="post-content">
 						<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
 						<h3>{{ post.title }}</h3>
@@ -108,4 +108,4 @@ permalink: "/donate.html"
 			{% endfor %}
 		</div>
 	</div>
-</div>
+</div> -->
