@@ -96,7 +96,7 @@ permalink: "/donate.html"
 		<div class="posts">
 			{% for post in site.posts %}
 				<div class="post">
-					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
+					<!-- <div class="image" style="background-image: url({{ post.featured_image}})"></div> -->
 					<div class="post-content">
 						<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
 						<h3>{{ post.title }}</h3>
