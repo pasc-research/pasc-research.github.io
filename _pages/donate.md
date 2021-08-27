@@ -8,15 +8,15 @@ permalink: "/donate.html"
 	<div class="container">
 		<div class="column">
 			<div>
-				<h1 class="editable">Give sheep the vote</h1>
-				<p class="editable">Sheep are the backbone of the economy yet they receive no compensation.</p>
+				<h1 class="editable">Some Text</h1>
+				<p class="editable">Some Text</p>
 				<div class="button">
 					<a href="#donate">Donate Now</a>
 				</div>
 			</div>
 		</div>
 		<div class="column">
-			<img src="{{ site.baseurl }}/images/sheep.jpg" alt="Sheep">
+			<img src="{{ site.baseurl }}/images/1.png" alt="Sheep">
 		</div>
 	</div>
 </header>
