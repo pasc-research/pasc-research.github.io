@@ -16,12 +16,12 @@ permalink: "/donate.html"
 			</div>
 		</div>
 		<div class="column">
-			<img src="{{ site.baseurl }}/images/1.png" alt="Sheep">
+			<img src="{{ site.baseurl }}/assets/images/1.png" alt="Sheep">
 		</div>
 	</div>
 </header>
 
-<div class="container">
+<!-- <div class="container">
 	<h2 class="editable" style="text-align: center;">Some Text</h2>
 
 	<ul class="thirds">
@@ -43,7 +43,7 @@ permalink: "/donate.html"
 			<p class="editable">Some Text</p>
 		</li>
 	</ul>
-</div>
+</div> -->
 
 <!-- <div class="container">
 	<div class="columns">
