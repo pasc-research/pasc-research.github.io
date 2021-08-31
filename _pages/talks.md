@@ -2,7 +2,7 @@
 title: "Talks"
 permalink: "/talks.html"
 
-gallery2:
+gallery:
   - url: https://flic.kr/p/8a6Ven
     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
     alt: "Black and grays with a hint of green"
@@ -15,4 +15,4 @@ gallery2:
 ---
 
 
-{% include gallery.html id="gallery2" caption="test caption." %}
+{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
