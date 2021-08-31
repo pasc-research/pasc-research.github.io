@@ -21,4 +21,4 @@ feature_row:
 ---
 
 
-{% include feature_row.html id="feature_row" type="center" %}
+{% include feature_row.html %}
