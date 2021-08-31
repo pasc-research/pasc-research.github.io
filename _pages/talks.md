@@ -22,4 +22,4 @@ feature_row:
 ---
 
 
-{% include feature_row.html type=left %}
+{% include feature_row.html type="left" %}
