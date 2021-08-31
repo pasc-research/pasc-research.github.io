@@ -2,8 +2,6 @@
 title: "Talks"
 permalink: "/talks.html"
 
-layout: default
-  
 feature_row:
   - image_path: https://img.youtube.com/vi/vy-JUaqk1Y8/0.jpg
     alt: "placeholder image 1"
@@ -18,8 +16,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   
-
 ---
 
 
-{% include feature_row.html type="left" %}
+{% include feature_row.html %}
