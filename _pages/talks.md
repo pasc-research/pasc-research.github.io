@@ -2,7 +2,7 @@
 title: "Talks"
 permalink: "/talks.html"
 
-layout: splash
+layout: default
   
 feature_row:
   - image_path: https://img.youtube.com/vi/vy-JUaqk1Y8/0.jpg
