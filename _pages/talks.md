@@ -6,7 +6,7 @@ feature_row:
   - image_path: https://img.youtube.com/vi/vy-JUaqk1Y8/0.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    url: "{{site.baseurl}}/2021-8-31-video-1.html}"
+    url: "{{site.baseurl}}/video-1}"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: https://img.youtube.com/vi/vy-JUaqk1Y8/0.jpg
     alt: "placeholder image 2"
