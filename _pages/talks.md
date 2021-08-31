@@ -2,7 +2,7 @@
 title: "Talks"
 permalink: "/talks.html"
 
-
+layout: splash
   
 feature_row:
   - image_path: https://img.youtube.com/vi/vy-JUaqk1Y8/0.jpg
@@ -45,15 +45,6 @@ feature_row4:
 
 ---
 
-
-<div align="center" style="margin: 1em 0;">
-        <ins class="adsbygoogle"
-             style="display:block; border-bottom: initial;"
-             data-ad-client="ca-pub-7328585512091257"
-             data-ad-slot="3049671934"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-      </div>
 
 {% include feature_row.html %}
 
