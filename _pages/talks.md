@@ -3,6 +3,10 @@ title: "Talks"
 permalink: "/talks.html"
 layout: splash
 
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  
 
 feature_row:
   - image_path: https://img.youtube.com/vi/vy-JUaqk1Y8/0.jpg
