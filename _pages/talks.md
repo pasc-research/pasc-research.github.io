@@ -10,7 +10,7 @@ permalink: "/talks.html"
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Talks</h1>
             
         {% for post in site.posts %} 
-        {% if post.type == "video" %} 
+        {% if post.tag == "video" %} 
         
         
         {% if post.title != null %}
