@@ -11,16 +11,11 @@ permalink: "/talks.html"
             
         {% for post in site.posts %} 
         {% if post.tags contains "video" %}
-        {% if post.title != null %}
-          {% if group == null or group == post.group %}
+        
          
             {% include main-loop-card.html %}
-          {% endif %}
+          
         {% endif %}
-        {% endif %}
-
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
 
         {% endfor %}
 
