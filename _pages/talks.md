@@ -20,8 +20,8 @@ permalink: "/talks.html"
           {% endif %}
         {% endif %}
         {% endfor %}
-        <!-- {% assign pages_list = nil %}
-        {% assign group = nil %} -->
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
 
         <!-- {% endfor %} -->
 
