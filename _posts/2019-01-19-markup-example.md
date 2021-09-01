@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Test Post 4"
-author: doe
 categories: [ COVID symptoms, Mental Health ]
 image: assets/images/4.jpeg
 tags: featured
