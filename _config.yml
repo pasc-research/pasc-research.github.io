@@ -19,21 +19,14 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Doe
-      site:           https://www.wowthemes.net
+    yong:
+      name:           Yong Huang
+      site:           https://www.yonglhuang.com
       avatar:         /assets/images/avatar1.jpg
       bio:            "Bio"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          yongh7@uci.edu
+      twitter:        https://twitter.com
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Bio"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
