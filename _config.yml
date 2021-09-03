@@ -27,6 +27,15 @@ authors:
       email:          yongh7@uci.edu
       twitter:        https://twitter.com
 
+
+resources:
+    cdc:
+      name:           Centers for Disease Control and Prevention
+      site:           https://www.cdc.gov
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Centers for Disease Control and Prevention"
+      twitter:        https://twitter.com
+      
  
 # Defaults
 defaults:
