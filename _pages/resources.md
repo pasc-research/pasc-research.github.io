@@ -1,6 +1,6 @@
 ---
-title: "Talks"
-permalink: "/talks.html"
+title: "Resources"
+permalink: "/resources.html"
 ---
 
 
