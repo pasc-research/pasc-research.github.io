@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
-mailchimp-list: 
+mailchimp-list: www.youtube.com
 
 include: ["_pages"]
 permalink: /:title/
